@@ -2,11 +2,11 @@
   "name": "webhook-echo-sample",
   "version": "1.0.0",
   "description": "Webhook echo sample",
-  "main": "hotel.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node hotel.js"
+    "start": "node index.js"
   },
-  "author": "Sunil Syal",
+  "author": "Niranjan",
   "dependencies": {
 <<<<<<< HEAD
     "actions-on-google": "^1.8.1",
